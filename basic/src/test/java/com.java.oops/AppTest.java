@@ -1,4 +1,4 @@
-package com.java.oops;
+package oops;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
