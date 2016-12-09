@@ -1,9 +1,15 @@
 package com.java.oops.Abstract;
 
 /**
- * Created by vramamoorthy on 09/12/16.
+ * Logger Abstract.
  */
+
 public abstract class Logger {
+
+    /**
+     * System Log Method.
+     * @param line Log String.
+     */
     public static void sys (Object line) {
         System.out.println(line);
     }
